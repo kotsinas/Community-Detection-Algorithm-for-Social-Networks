@@ -1,5 +1,4 @@
-# thesis_repository
-Community Detection Algorithm for Social Networks using Threaded Binary Trees implemented in Python 3.8
+# Community Detection Algorithm for Social Networks using Threaded Binary Trees implemented in Python 3.8
 
 Undoubtedly, we are entering the era of a new universal digital state, where social networks count billions 
 of users worldwide. The development and growing popularity of social media has a decisive influence on 
